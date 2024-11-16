@@ -1,5 +1,5 @@
 # ArchiveKeeper
-Public available Files for revision safe documentation management system.
+Public available Files for RISE Product ArchiveKeeper - the revision safe documentation management system.
 
 # License
 
